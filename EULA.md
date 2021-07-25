@@ -1,6 +1,7 @@
 --- 
 layout: page 
 title: EULA 
+permalink: EULA/
 --- 
 
 End-User License Agreement (EULA) of Analyze Data
