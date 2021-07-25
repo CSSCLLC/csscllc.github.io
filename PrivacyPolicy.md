@@ -4,6 +4,7 @@ title: "Privacy Policy"
 permalink: PrivacyPolicy/
 --- 
 
+
 Information that is gathered from visitors
 ------------------------------------------
 
