@@ -1,5 +1,4 @@
-# CSSC LLC
-
-Welcome to CSSC LLC's github site.
+# Welcome to CSSC LLC's github site.
 
 [EULA](/EULA)
+[Privacy Policy](/PrivacyPolicy)
